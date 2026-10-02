@@ -7,6 +7,6 @@ search:
     - json
 
 server:
-  secret_key: "069a2db0acfc4d608525f2982738794e"
+  secret_key: "YOUR_KEY"
   limiter: false
   public_instance: false
