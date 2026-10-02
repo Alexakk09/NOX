@@ -26,7 +26,7 @@ function ChatWindow({
         {messages.length === 0 ? (
           <div className="welcome-message">
             <h1>How can I help?</h1>
-            <p>Ask VeerAI anything.</p>
+            <p>Ask NOX anything.</p>
           </div>
         ) : (
           <MessageList messages={messages} />

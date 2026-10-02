@@ -15,7 +15,7 @@ function MessageInput({
     <div className="message-input-area">
       <input
         type="text"
-        placeholder="Message VeerAI..."
+        placeholder="Message NOX..."
         value={message}
         disabled={isSending}
         onChange={(event) => onMessageChange(event.target.value)}

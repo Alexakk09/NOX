@@ -18,7 +18,7 @@ function LoginForm({
   return (
     <div className="login-page">
       <div className="login-card">
-        <h1>VeerAI</h1>
+        <h1>NOX</h1>
         <p>Sign in to continue</p>
 
         <input

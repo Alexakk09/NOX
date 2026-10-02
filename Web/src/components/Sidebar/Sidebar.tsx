@@ -49,7 +49,7 @@ function Sidebar({
   return (
     <aside className="sidebar">
       <div className="sidebar-header">
-        <h2>VeerAI</h2>
+        <h2>NOX</h2>
       </div>
 
       <button
