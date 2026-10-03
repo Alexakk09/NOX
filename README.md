@@ -1,8 +1,4 @@
-Yes. Here is a **properly structured README**. The important part is that **every Markdown code fence is correctly closed**, so GitHub won't turn the rest of the file into one giant code block.
 
-Replace your entire `README.md` with this:
-
-```md
 # NOX
 
 > A modular personal AI assistant built around LLMs, persistent memory, web search, document intelligence, and extensible tools.
@@ -698,4 +694,3 @@ The goal is to build an assistant that can:
 while keeping consequential actions controlled by the user.
 ```
 
-**This version is structurally valid Markdown.** The architecture, project tree, commands, YAML, `.env`, diagrams, tables, and roadmap are all independently fenced/structured instead of accidentally becoming one giant code block.
